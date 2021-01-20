@@ -23,6 +23,8 @@
   "homepage": "https://github.com/Azambik/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^26.6.3"
+    "jest": "^26.6.3",
+    "python": "0.0.4",
+    "sqlite3": "^5.0.1"
   }
 }
